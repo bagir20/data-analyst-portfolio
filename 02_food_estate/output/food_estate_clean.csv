@@ -1,0 +1,29 @@
+id_distribusi,tanggal_distribusi,tujuan,jumlah_distribusi_kg,harga_per_kg,total_harga,id_panen,tanggal_panen,kualitas,jumlah_panen_kg,nama_petani,nik,luas_lahan_ha,tahun_bergabung,nama_desa,kecamatan,komoditas,satuan,bulan_panen,bulan_distribusi,produktivitas_kg_per_ha,selisih_kg
+1,2024-01-17,Bulog Palangkaraya,3000.0,5200.0,15600000.0,1,2024-01-15,A,3500.0,Ahmad Subandi,6201010101010001,2.5,2021,Kelampangan,Sebangau,Padi,kg,January,January,1400.0,500.0
+16,2024-06-12,Distributor Banjarmasin,2600.0,4800.0,12480000.0,16,2024-06-10,A,2800.0,Ahmad Subandi,6201010101010001,2.5,2021,Kelampangan,Sebangau,Jagung,kg,June,June,1120.0,200.0
+2,2024-01-22,Pasar Kahayan,1800.0,5000.0,9000000.0,2,2024-01-20,B,2100.0,Siti Rahmah,6201010101010002,1.75,2021,Kelampangan,Sebangau,Padi,kg,January,January,1200.0,300.0
+23,2024-10-03,Bulog Palangkaraya,2200.0,5200.0,11440000.0,23,2024-10-01,A,2450.0,Siti Rahmah,6201010101010002,1.75,2021,Kelampangan,Sebangau,Padi,kg,October,October,1400.0,250.0
+3,2024-02-07,Distributor Banjarmasin,4000.0,4800.0,19200000.0,3,2024-02-05,A,4200.0,Budi Santoso,6201010101010003,3.0,2022,Garantung,Maliku,Jagung,kg,February,February,1400.0,200.0
+17,2024-07-07,Bulog Palangkaraya,4200.0,5200.0,21840000.0,17,2024-07-05,A,4500.0,Budi Santoso,6201010101010003,3.0,2022,Garantung,Maliku,Padi,kg,July,July,1500.0,300.0
+4,2024-02-12,Bulog Palangkaraya,3500.0,5200.0,18200000.0,4,2024-02-10,A,3800.0,Hendra Wijaya,6201010101010004,2.25,2021,Garantung,Maliku,Padi,kg,February,February,1688.888888888889,300.0
+24,2024-10-14,Pasar Kahayan,1900.0,3500.0,6650000.0,24,2024-10-12,B,2100.0,Hendra Wijaya,6201010101010004,2.25,2021,Garantung,Maliku,Singkong,kg,October,October,933.3333333333334,200.0
+5,2024-02-22,Koperasi Petani,1200.0,8500.0,10200000.0,5,2024-02-20,B,1500.0,Mulyadi,6201010101010005,1.5,2022,Badirih,Jabiren Raya,Kedelai,kg,February,February,1000.0,300.0
+18,2024-07-20,Pasar Kahayan,700.0,35000.0,24500000.0,18,2024-07-18,B,750.0,Mulyadi,6201010101010005,1.5,2022,Badirih,Jabiren Raya,Cabai,kg,July,July,500.0,50.0
+6,2024-03-03,Distributor Banjarmasin,2500.0,4800.0,12000000.0,6,2024-03-01,A,2800.0,Rudi Hartono,6201010101010006,2.0,2023,Badirih,Jabiren Raya,Jagung,kg,March,March,1400.0,300.0
+25,2024-11-05,Bulog Palangkaraya,2800.0,5200.0,14560000.0,25,2024-11-03,A,3000.0,Rudi Hartono,6201010101010006,2.0,2023,Badirih,Jabiren Raya,Padi,kg,November,November,1500.0,200.0
+7,2024-03-12,Bulog Palangkaraya,5000.0,5200.0,26000000.0,7,2024-03-10,A,5250.0,Suharto,6201010101010007,3.5,2021,Henda,Jabiren Raya,Padi,kg,March,March,1500.0,250.0
+19,2024-08-04,Bulog Palangkaraya,5200.0,5200.0,27040000.0,19,2024-08-02,A,5600.0,Suharto,6201010101010007,3.5,2021,Henda,Jabiren Raya,Padi,kg,August,August,1600.0,400.0
+8,2024-03-17,Pasar Kahayan,1500.0,3500.0,5250000.0,8,2024-03-15,C,1800.0,Dewi Lestari,6201010101010008,1.25,2022,Henda,Jabiren Raya,Singkong,kg,March,March,1440.0,300.0
+26,2024-11-22,Pasar Kahayan,550.0,35000.0,19250000.0,26,2024-11-20,A,600.0,Dewi Lestari,6201010101010008,1.25,2022,Henda,Jabiren Raya,Cabai,kg,November,November,480.0,50.0
+9,2024-04-07,Bulog Palangkaraya,4000.0,5200.0,20800000.0,9,2024-04-05,B,4125.0,Agus Salim,6201010101010009,2.75,2021,Mantaren,Kahayan Hilir,Padi,kg,April,April,1500.0,125.0
+20,2024-08-22,Koperasi Petani,1600.0,8500.0,13600000.0,20,2024-08-20,A,1800.0,Agus Salim,6201010101010009,2.75,2021,Mantaren,Kahayan Hilir,Kedelai,kg,August,August,654.5454545454545,200.0
+10,2024-04-14,Pasar Kahayan,800.0,35000.0,28000000.0,10,2024-04-12,A,900.0,Nurhayati,6201010101010010,2.0,2023,Mantaren,Kahayan Hilir,Cabai,kg,April,April,450.0,100.0
+27,2024-12-07,Bulog Palangkaraya,3500.0,5200.0,18200000.0,27,2024-12-05,A,3800.0,Nurhayati,6201010101010010,2.0,2023,Mantaren,Kahayan Hilir,Padi,kg,December,December,1900.0,300.0
+11,2024-04-22,Distributor Banjarmasin,3000.0,4800.0,14400000.0,11,2024-04-20,A,3150.0,Eko Prasetyo,6201010101010011,1.75,2022,Pulang Pisau,Kahayan Hilir,Jagung,kg,April,April,1800.0,150.0
+21,2024-09-07,Bulog Palangkaraya,3000.0,5200.0,15600000.0,21,2024-09-05,B,3200.0,Eko Prasetyo,6201010101010011,1.75,2022,Pulang Pisau,Kahayan Hilir,Padi,kg,September,September,1828.5714285714287,200.0
+12,2024-05-05,Bulog Palangkaraya,4500.0,5200.0,23400000.0,12,2024-05-03,A,4875.0,Wahyu Hidayat,6201010101010012,3.25,2021,Pulang Pisau,Kahayan Hilir,Padi,kg,May,May,1500.0,375.0
+28,2024-12-20,Distributor Banjarmasin,4000.0,4800.0,19200000.0,28,2024-12-18,A,4200.0,Wahyu Hidayat,6201010101010012,3.25,2021,Pulang Pisau,Kahayan Hilir,Jagung,kg,December,December,1292.3076923076924,200.0
+13,2024-05-17,Koperasi Petani,2000.0,8500.0,17000000.0,13,2024-05-15,B,2250.0,Bambang Suryadi,6201010101010013,2.5,2023,Pangkoh,Pandih Batu,Kedelai,kg,May,May,900.0,250.0
+22,2024-09-17,Distributor Banjarmasin,3400.0,4800.0,16320000.0,22,2024-09-15,A,3600.0,Bambang Suryadi,6201010101010013,2.5,2023,Pangkoh,Pandih Batu,Jagung,kg,September,September,1440.0,200.0
+14,2024-05-24,Pasar Kahayan,1200.0,3500.0,4200000.0,14,2024-05-22,B,1350.0,Fitria Ningrum,6201010101010014,1.5,2022,Pangkoh,Pandih Batu,Singkong,kg,May,May,900.0,150.0
+15,2024-06-03,Bulog Palangkaraya,2800.0,5200.0,14560000.0,15,2024-06-01,A,3000.0,Supardi,6201010101010015,2.0,2021,Belanti Siam,Pandih Batu,Padi,kg,June,June,1500.0,200.0
